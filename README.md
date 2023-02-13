@@ -1,4 +1,4 @@
-# Mattermost Web App
+# Mattermost 웹 앱
 # [![Mattermost](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mattermost.com)
 
 [Mattermost](https://mattermost.com) is an open source platform for secure collaboration across the entire software development lifecycle. This repo is the primary source for core development on the Mattermost platform; it's written in Golang and React, and runs as a single Linux binary with MySQL or PostgreSQL. A new compiled version is released under an MIT license every month on the 16th.
@@ -11,7 +11,7 @@ This repo hosts the webapp client code. If you'd like to report an issue with Ma
 - [Developer documentation](https://developers.mattermost.com/)
 - [Download compiled version](https://mattermost.com/download)
 
-## Try out Mattermost
+## Mattermost 사용해보기
 
 - [Join the Mattermost Contributor's server](https://community.mattermost.com/signup_user_complete/?id=codoy5s743rq5mk18i7u5ksz7e) to join community discussions about contributions, development and more
 - [Get started with Mattermost Cloud](https://customers.mattermost.com/cloud/signup) to try out Mattermost
@@ -20,7 +20,7 @@ This repo hosts the webapp client code. If you'd like to report an issue with Ma
 
 _Note: Heroku preview does not include email or persistent storage._
 
-## Install Mattermost
+## Mattermost 설치
 
 - [Deploy Guide](https://docs.mattermost.com/guides/deployment.html) - Deploy Mattermost in minutes via Docker, Ubuntu, or tar.
 - [Developer Machine Setup](https://developers.mattermost.com/contribute/server/developer-setup) - Follow this guide if you want to write code for Mattermost
@@ -43,12 +43,12 @@ Other Install Guides:
 - [Join Developer Discussion on a Mattermost Server for contributors](https://docs.mattermost.com/guides/community-chat.html)
 - [Get Help With Mattermost](https://docs.mattermost.com/guides/get-help.html)
 
-## Learn More
+## 더 배우기
 
 - [API Options - webhooks, slash commands, drivers and web service](https://api.mattermost.com/)
 - [Localization Guide](https://handbook.mattermost.com/contributors/contributors/localization)
 
-## Get the Latest News
+## 최근 소식 접하기
 
 - **Twitter** - Follow [Mattermost](https://twitter.com/Mattermost)
 - **Email** - Subscribe to our [newsletter](https://mattermost.com/community-newsletter/)
