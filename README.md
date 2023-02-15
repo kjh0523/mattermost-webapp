@@ -36,9 +36,9 @@ Other Install Guides:
 - [RHEL 8](https://docs.mattermost.com/install/install-rhel-8.html)
 - [More server install guides](https://docs.mattermost.com/guides/deployment.html)
 
-## Get Involved
+## 참여하기
 
-- [Contribute to Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute)
+- [Mattermost에 기여](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute)
 - [Find "Help Wanted" projects](https://github.com/mattermost/mattermost-server/issues?page=1&q=is%3Aissue+is%3Aopen+%22Help+Wanted%22&utf8=%E2%9C%93)
 - [Join Developer Discussion on a Mattermost Server for contributors](https://docs.mattermost.com/guides/community-chat.html)
 - [Get Help With Mattermost](https://docs.mattermost.com/guides/get-help.html)
@@ -53,4 +53,4 @@ Other Install Guides:
 - **Twitter** - Follow [Mattermost](https://twitter.com/Mattermost)
 - **Email** - Subscribe to our [newsletter](https://mattermost.com/community-newsletter/)
 
-Any other questions, mail us at [info@mattermost.com](mailto:info@mattermost.com). We'd love to meet you!
+다른 질문은, [info@mattermost.com](mailto:info@mattermost.com) 주소로 메일을 주십시오. 우리는 당신과 만나는 것이 즐겁습니다!
